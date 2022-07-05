@@ -1,0 +1,23 @@
+#header {
+	text-align: center;
+	background-color: black;
+	color: floralwhite;
+}
+body {
+	background-color: lightgrey;
+}
+
+#container {
+	background-color: black;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 17px 17px 17px 17px;
+}
+#content {
+	color: floralwhite; 
+}
+#footer {
+	text-align: right;
+	color: #F6901C;
+}
